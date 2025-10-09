@@ -1,0 +1,70 @@
+# --- Fichiers de build ---
+bin/
+obj/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# --- Dossier Visual Studio ---
+.vs/
+
+# --- Fichiers utilisateurs / temporaires ---
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.tmp
+*.log
+
+# --- Fichiers système ---
+.DS_Store
+Thumbs.db
+
+# --- Fichiers de sauvegarde ---
+*.bak
+*.backup
+
+# --- Dossiers de publication ---
+/publish/
+/out/
+/Release/
+/Debug/
+
+# --- Dossiers IDE (autres éditeurs) ---
+.idea/
+.vscode/
+
+# --- Fichiers spécifiques à Windows ---
+desktop.ini
+
+# --- Configuration personnelle ---
+*.config.user
+
+# --- Paquets NuGet ---
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+
+# --- Cache de build ---
+project.lock.json
+artifacts/
+
+# --- JetBrains Rider / Resharper ---
+_ReSharper*/
+*.DotSettings.user
+
+# --- Test Results ---
+[Tt]est[Rr]esult*/
+*.VisualState.xml
+*.coverage
+*.coveragexml
+
+# --- Logs d’outils ---
+*.tlog
+*.lastcodeanalysissucceeded
+
+# --- Autres fichiers temporaires ---
+*.tmp
+*.temp
