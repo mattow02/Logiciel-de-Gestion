@@ -1,0 +1,11 @@
+C:\Users\julot\Desktop\SAE A21-D21\UCLogin\UCLogin\bin\Debug\UCLogin.dll
+C:\Users\julot\Desktop\SAE A21-D21\UCLogin\UCLogin\bin\Debug\UCLogin.pdb
+C:\Users\julot\Desktop\SAE A21-D21\UCLogin\UCLogin\obj\Debug\UCLogin.csproj.AssemblyReference.cache
+C:\Users\julot\Desktop\SAE A21-D21\UCLogin\UCLogin\obj\Debug\UCLogin.UCLogin.resources
+C:\Users\julot\Desktop\SAE A21-D21\UCLogin\UCLogin\obj\Debug\UCLogin.csproj.GenerateResource.cache
+C:\Users\julot\Desktop\SAE A21-D21\UCLogin\UCLogin\obj\Debug\UCLogin.csproj.CoreCompileInputs.cache
+C:\Users\julot\Desktop\SAE A21-D21\UCLogin\UCLogin\obj\Debug\UCLogin.dll
+C:\Users\julot\Desktop\SAE A21-D21\UCLogin\UCLogin\obj\Debug\UCLogin.pdb
+C:\Users\julot\Desktop\SAE A21-D21\UCLogin\UCLogin\bin\Debug\System.Data.SQLite.dll
+C:\Users\julot\Desktop\SAE A21-D21\UCLogin\UCLogin\bin\Debug\System.Data.SQLite.xml
+C:\Users\julot\Desktop\SAE A21-D21\UCLogin\UCLogin\obj\Debug\UCLogin.csproj.Up2Date

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UCmobilisations", "UCmobilisations\UCmobilisations.csproj", "{2171C408-498F-4037-889A-61E684DC2CC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2171C408-498F-4037-889A-61E684DC2CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2171C408-498F-4037-889A-61E684DC2CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2171C408-498F-4037-889A-61E684DC2CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2171C408-498F-4037-889A-61E684DC2CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FA3BBC1-D100-4DD9-A242-890068ADCB4B}
+	EndGlobalSection
+EndGlobal

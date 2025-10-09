@@ -1,0 +1,219 @@
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\UC_Tableau_de_bord.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\UC_Tableau_de_bord.pdb
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\obj\Debug\UC_Tableau_de_bord.csproj.AssemblyReference.cache
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\obj\Debug\UC_Tableau_de_bord.UserControl1.resources
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\obj\Debug\UC_Tableau_de_bord.csproj.GenerateResource.cache
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\obj\Debug\UC_Tableau_de_bord.csproj.CoreCompileInputs.cache
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\obj\Debug\UC_Tableau_de_bord.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\obj\Debug\UC_Tableau_de_bord.pdb
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\obj\Debug\UC_Tableau_de_bord.Properties.Resources.resources
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\UC_Tableau_de_bord.dll.config
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.barcodes.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.commons.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.forms.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.io.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.kernel.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.layout.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.pdfa.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.pdfua.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.sign.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.styledxmlparser.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.svg.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Newtonsoft.Json.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Buffers.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Memory.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.ValueTuple.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.barcodes.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.commons.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.forms.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.io.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.kernel.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.layout.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.pdfa.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.pdfua.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.sign.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.styledxmlparser.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.svg.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Newtonsoft.Json.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Buffers.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Memory.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.ValueTuple.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\UC_Tableau_de_bord\UC_Tableau_de_bord\obj\Debug\UC_Table.9FABDE6E.Up2Date
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\UC_Tableau_de_bord.dll.config
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\UC_Tableau_de_bord.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\UC_Tableau_de_bord.pdb
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Common.Logging.Core.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Common.Logging.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\EntityFramework.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.barcodes.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.forms.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.io.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.kernel.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.layout.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.pdfa.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.sign.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.styledxmlparser.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.svg.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Newtonsoft.Json.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Buffers.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Data.SQLite.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Memory.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.ValueTuple.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Common.Logging.pdb
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Common.Logging.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Common.Logging.Core.pdb
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Common.Logging.Core.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\EntityFramework.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.barcodes.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.forms.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.io.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.kernel.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.layout.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.pdfa.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.sign.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.styledxmlparser.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.svg.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Newtonsoft.Json.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Buffers.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Data.SQLite.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Memory.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.ValueTuple.xml
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\obj\Debug\UC_Tableau_de_bord.csproj.AssemblyReference.cache
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\obj\Debug\UC_Tableau_de_bord.Properties.Resources.resources
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\obj\Debug\UC_Tableau_de_bord.UserControl1.resources
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\obj\Debug\UC_Tableau_de_bord.csproj.GenerateResource.cache
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\obj\Debug\UC_Tableau_de_bord.csproj.CoreCompileInputs.cache
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\obj\Debug\UC_Table.9FABDE6E.Up2Date
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\obj\Debug\UC_Tableau_de_bord.dll
+C:\Users\matte\Desktop\IUT RS\1ere Année\A21 - Application\Tableau de bord\UC_Tableau_de_bord\UC_Tableau_de_bord\obj\Debug\UC_Tableau_de_bord.pdb
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\UC_Tableau_de_bord.dll.config
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\UC_Tableau_de_bord.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\UC_Tableau_de_bord.pdb
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\BouncyCastle.Crypto.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Common.Logging.Core.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Common.Logging.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\EntityFramework.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\EntityFramework.SqlServer.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.barcodes.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.bouncy-castle-connector.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.commons.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.forms.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.io.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.kernel.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.layout.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.pdfa.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.pdfua.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.sign.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.styledxmlparser.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.svg.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.Options.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Newtonsoft.Json.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Buffers.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Data.SQLite.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Data.SQLite.EF6.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Data.SQLite.Linq.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Memory.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Numerics.Vectors.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.ValueTuple.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\BouncyCastle.Crypto.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Common.Logging.pdb
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Common.Logging.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Common.Logging.Core.pdb
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Common.Logging.Core.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\EntityFramework.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\EntityFramework.SqlServer.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.barcodes.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.bouncy-castle-connector.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.commons.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.forms.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.io.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.kernel.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.layout.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.pdfa.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.pdfua.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.sign.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.styledxmlparser.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\itext.svg.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.Options.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\Newtonsoft.Json.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Buffers.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Data.SQLite.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Memory.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Numerics.Vectors.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\bin\Debug\System.ValueTuple.xml
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\obj\Debug\UC_Tableau_de_bord.csproj.AssemblyReference.cache
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\obj\Debug\UC_Tableau_de_bord.Properties.Resources.resources
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\obj\Debug\UC_Tableau_de_bord.UserControl1.resources
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\obj\Debug\UC_Tableau_de_bord.csproj.GenerateResource.cache
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\obj\Debug\UC_Tableau_de_bord.csproj.CoreCompileInputs.cache
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\obj\Debug\UC_Table.9FABDE6E.Up2Date
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\obj\Debug\UC_Tableau_de_bord.dll
+D:\a21-caserne\Tableau_de_bord_finis\UC_Tableau_de_bord\UC_Tableau_de_bord\obj\Debug\UC_Tableau_de_bord.pdb
