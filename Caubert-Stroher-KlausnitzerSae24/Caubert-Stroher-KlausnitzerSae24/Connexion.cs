@@ -1,60 +1,60 @@
-﻿using System;
-using System.Collections.Generic;
+using System;
 using System.Data.SQLite;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Caubert_Stroher_KlausnitzerSae24
 {
-	// Classe basée sur le pattern Singleton pour s'assurer que la connexion n'est ouverte qu'une seule fois
+    /// <summary>
+    /// Singleton database connection manager for SQLite.
+    /// Ensures only one connection instance exists throughout the application lifetime.
+    /// </summary>
     internal class Connexion
     {
-		// Objet Connection
-        private static SQLiteConnection cx;
+        private static SQLiteConnection _connection;
+        private static readonly string ConnectionString = @"Data Source = SDIS67.db";
 
-        // Constructeur privé pour empêcher l'instanciation directe depuis l'extérieur.
         private Connexion() { }
 
-        // Méthode publique pour obtenir l'instance unique de la classe.
+        /// <summary>
+        /// Gets the singleton SQLite connection, opening it if necessary.
+        /// </summary>
         public static SQLiteConnection Connec
         {
             get
             {
-                // Si l'instance n'existe pas, on la crée.
-                if (cx == null)
+                if (_connection == null || _connection.State != System.Data.ConnectionState.Open)
                 {
                     try
                     {
-						// Chaîne de connexion à votre base de données
-						string chaine = @"Data Source = SDIS67.db";
-                        cx = new SQLiteConnection(chaine);
-                        cx.Open();
+                        _connection?.Dispose();
+                        _connection = new SQLiteConnection(ConnectionString);
+                        _connection.Open();
                     }
-                    catch (SQLiteException err) 
+                    catch (SQLiteException ex)
                     {
-                        Console.WriteLine($"Erreur lors de l'ouverture de la connexion : {err.Message}");
+                        Console.WriteLine($"Error opening database connection: {ex.Message}");
+                        throw;
                     }
                 }
-				//Dans tous les cas on renvoie la connexion
-                return cx;
+                return _connection;
             }
         }
 
-		// Méthode pour fermer proprement la connexion
-        public static void FermerConnexion()
+        /// <summary>
+        /// Closes and disposes the database connection cleanly.
+        /// </summary>
+        public static void CloseConnection()
         {
-            if (cx != null)
+            if (_connection != null)
             {
                 try
                 {
-                    cx.Close();
-                    cx.Dispose();
-                    cx = null; // Libération pour permettre une nouvelle connexion propre
+                    _connection.Close();
+                    _connection.Dispose();
+                    _connection = null;
                 }
-                catch (Exception err)
+                catch (Exception ex)
                 {
-                    Console.WriteLine($"Erreur lors de la fermeture de la connexion : {err.Message}");
+                    Console.WriteLine($"Error closing database connection: {ex.Message}");
                 }
             }
         }

@@ -77,7 +77,7 @@
             this.lblCon.Name = "lblCon";
             this.lblCon.Size = new System.Drawing.Size(110, 25);
             this.lblCon.TabIndex = 3;
-            this.lblCon.Text = "Connexion";
+            this.lblCon.Text = "Login";
             // 
             // lblLogin
             // 
@@ -97,7 +97,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(109, 21);
             this.label1.TabIndex = 5;
-            this.label1.Text = "Mot de passe";
+            this.label1.Text = "Password";
             // 
             // btnretour
             // 

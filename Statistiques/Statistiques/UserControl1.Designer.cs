@@ -76,7 +76,7 @@
             this.lblStat.Name = "lblStat";
             this.lblStat.Size = new System.Drawing.Size(146, 32);
             this.lblStat.TabIndex = 1;
-            this.lblStat.Text = "Statistiques";
+            this.lblStat.Text = "Statistics";
             // 
             // pnlCaserne
             // 

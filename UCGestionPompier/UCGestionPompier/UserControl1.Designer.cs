@@ -667,7 +667,7 @@
             this.btnfermer.Name = "btnfermer";
             this.btnfermer.Size = new System.Drawing.Size(198, 31);
             this.btnfermer.TabIndex = 42;
-            this.btnfermer.Text = "Fermer";
+            this.btnfermer.Text = "Close";
             this.btnfermer.UseVisualStyleBackColor = false;
             this.btnfermer.Click += new System.EventHandler(this.btnfermer_Click);
             // 

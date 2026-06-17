@@ -198,7 +198,7 @@
             this.btnAnnuler.Name = "btnAnnuler";
             this.btnAnnuler.Size = new System.Drawing.Size(179, 37);
             this.btnAnnuler.TabIndex = 17;
-            this.btnAnnuler.Text = "Annuler";
+            this.btnAnnuler.Text = "Cancel";
             this.btnAnnuler.UseVisualStyleBackColor = true;
             this.btnAnnuler.Click += new System.EventHandler(this.btnAnnuler_Click);
             // 

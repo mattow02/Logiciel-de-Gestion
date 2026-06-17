@@ -1,70 +1,38 @@
-# --- Fichiers de build ---
-bin/
-obj/
-[Bb]uild/
+# Build
 [Bb]in/
 [Oo]bj/
-[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+*.exe
+*.dll
+*.pdb
 
-# --- Dossier Visual Studio ---
-.vs/
-
-# --- Fichiers utilisateurs / temporaires ---
-*.user
-*.suo
-*.userosscache
-*.sln.docstates
-*.tmp
-*.log
-
-# --- Fichiers système ---
-.DS_Store
-Thumbs.db
-
-# --- Fichiers de sauvegarde ---
-*.bak
-*.backup
-
-# --- Dossiers de publication ---
-/publish/
-/out/
-/Release/
-/Debug/
-
-# --- Dossiers IDE (autres éditeurs) ---
-.idea/
-.vscode/
-
-# --- Fichiers spécifiques à Windows ---
-desktop.ini
-
-# --- Configuration personnelle ---
-*.config.user
-
-# --- Paquets NuGet ---
+# NuGet
+packages/
 *.nupkg
 *.snupkg
-**/packages/*
-!**/packages/build/
 
-# --- Cache de build ---
-project.lock.json
-artifacts/
-
-# --- JetBrains Rider / Resharper ---
-_ReSharper*/
-*.DotSettings.user
-
-# --- Test Results ---
-[Tt]est[Rr]esult*/
-*.VisualState.xml
-*.coverage
-*.coveragexml
-
-# --- Logs d’outils ---
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+UpgradeLog*.htm
 *.tlog
 *.lastcodeanalysissucceeded
 
-# --- Autres fichiers temporaires ---
-*.tmp
-*.temp
+# IDE
+.idea/
+.vscode/
+_ReSharper*/
+*.DotSettings.user
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test
+[Tt]est[Rr]esult*/
+*.coverage

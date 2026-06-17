@@ -112,7 +112,7 @@
             this.btnStats.Name = "btnStats";
             this.btnStats.Size = new System.Drawing.Size(169, 83);
             this.btnStats.TabIndex = 4;
-            this.btnStats.Text = "Statistiques";
+            this.btnStats.Text = "Statistics";
             this.btnStats.UseVisualStyleBackColor = true;
             this.btnStats.Click += new System.EventHandler(this.btnStats_Click);
             // 
@@ -122,7 +122,7 @@
             this.btnQuitter.Name = "btnQuitter";
             this.btnQuitter.Size = new System.Drawing.Size(196, 60);
             this.btnQuitter.TabIndex = 5;
-            this.btnQuitter.Text = "Quitter";
+            this.btnQuitter.Text = "Quit";
             this.btnQuitter.UseVisualStyleBackColor = true;
             this.btnQuitter.Click += new System.EventHandler(this.btnQuitter_Click);
             // 
@@ -133,7 +133,7 @@
             this.btnTDB.Name = "btnTDB";
             this.btnTDB.Size = new System.Drawing.Size(169, 83);
             this.btnTDB.TabIndex = 0;
-            this.btnTDB.Text = "Tableau de bord";
+            this.btnTDB.Text = "Dashboard";
             this.btnTDB.UseVisualStyleBackColor = true;
             this.btnTDB.Click += new System.EventHandler(this.btnTDB_Click);
             // 

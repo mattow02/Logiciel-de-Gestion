@@ -297,7 +297,7 @@
             this.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ForeColor = System.Drawing.Color.Black;
             this.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
-            this.Name = "Engin";
+            this.Name = "Vehicle";
             this.Size = new System.Drawing.Size(1000, 649);
             this.Load += new System.EventHandler(this.Engin_Load);
             this.pnlCaserne.ResumeLayout(false);
